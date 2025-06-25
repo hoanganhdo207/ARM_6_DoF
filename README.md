@@ -33,5 +33,15 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
 | `.gitignore`         | List of files/folders ignored by Git.                                      |
 | `README.md`          | Project overview (this file).  
 
-## 📸 Demo
+## 📸 Previews
 [Video demo](https://drive.google.com/file/d/13h31Oaqvu5-RNBlb9Kudcmn5dsyJSfwP/view?usp=sharing) 
+
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software in both personal and commercial projects, as long as the original license is included.
+
+## 📬 Contact
+For questions or collaboration:
+Name: [Hoàng Anh]
+Email: hoanganhdo207@gmail.com
+GitHub: [hoanganhdo207]
