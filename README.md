@@ -8,11 +8,11 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
   - Deliver comple 3D designs and PCB schematics 
 
 ## 🛠️ Technologies Used
-| Component        | Tool / Technology        |
+| Component        | Tool / Technology         |
 |------------------|---------------------------|
-| Microcontroller  | STM32F103 (Bluepill)      |
-| IDE              | Keil µVision               |
+| Microcontroller  | STM32F411CEU6             |
+| IDE              | Keil µVision              |
 | Communication    | UART (via USB-TTL/RS232)  |
 | PC Interface     | Python (Tkinter GUI)      |
-| CAD Modeling     | Fusion360 / SolidWorks    |
-| PCB Design       | Altium Designer / EasyEDA |
+| CAD Modeling     | SolidWorks                |
+| PCB Design       | Altium Designer           |
