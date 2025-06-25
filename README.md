@@ -34,4 +34,4 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
 | `README.md`          | Project overview (this file).  
 
 ## 📸 Demo
-![Thumbnail](https://raw.githubusercontent.com/hoanganhdo207/ARM_6_DoF/main/Images/Thumbnail.png) (https://drive.google.com/file/d/13h31Oaqvu5-RNBlb9Kudcmn5dsyJSfwP/view?usp=sharing) 
+[Video demo](https://drive.google.com/file/d/13h31Oaqvu5-RNBlb9Kudcmn5dsyJSfwP/view?usp=sharing) 
