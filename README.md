@@ -1,1 +1,1 @@
-# ARM_6_DoF
+# 🤖 6 DOF Robot Arm - Embedded System Project
