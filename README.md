@@ -18,3 +18,21 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
 | CAD Modeling     | SolidWorks                |
 | PCB Design       | Altium Designer           |
 | Simulation       | CoppeliaSim               |
+
+## 📁 Project Structure
+
+| Folder/File         | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| `Hardware/`          | Contains all mechanical and electrical design files.                       |
+| └── `CAD/`           | 3D models (STEP/STL) for 3D printing and simulation.                       |
+| └── `Schematics/`    | Circuit diagrams and wiring documents.                                     |
+| `Software/`          | Source code for firmware and desktop control.                              |
+| └── `KeilC/`         | STM32 firmware developed with Keil µVision.                                |
+| └── `Python/`        | Python scripts for PC control, visualization, and GUI.                     |
+| `images/`            | Screenshots and images for documentation and README.                       |
+| `docs/`              | Additional documents (setup guides, testing procedures).                   |
+| `.gitignore`         | List of files/folders ignored by Git.                                      |
+| `README.md`          | Project overview (this file).  
+
+
+
