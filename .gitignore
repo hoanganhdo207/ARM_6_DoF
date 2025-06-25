@@ -1,0 +1,24 @@
+# Keil uVision
+*.axf
+*.bak
+*.dep
+*.d
+*.lst
+*.map
+*.o
+*.plg
+*.tra
+*.iex
+*.crf
+*.htm
+*.log
+*.tmp
+*.hex
+*.elf
+
+# Python & VS Code
+__pycache__/
+*.py[cod]
+env/
+.venv/
+.vscode/
