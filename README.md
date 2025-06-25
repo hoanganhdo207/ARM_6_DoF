@@ -42,6 +42,6 @@ You are free to use, modify, and distribute this software in both personal and c
 
 ## 📬 Contact
 For questions or collaboration:
-  -Name: [Hoàng Anh]
-  -Email: hoanganhdo207@gmail.com
-  -GitHub: [hoanganhdo207]
+  - Name: Đỗ Hoàng Anh
+  - Email: hoanganhdo207@gmail.com
+  - GitHub: [hoanganhdo207]
