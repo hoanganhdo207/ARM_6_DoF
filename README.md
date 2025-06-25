@@ -6,3 +6,13 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
   - Communicate with a PC via UART (Serial communication)
   - Provide a real-time GUI to control and visualize joint positions
   - Deliver comple 3D designs and PCB schematics 
+
+## 🛠️ Technologies Used
+| Component        | Tool / Technology        |
+|------------------|---------------------------|
+| Microcontroller  | STM32F103 (Bluepill)      |
+| IDE              | Keil µVision               |
+| Communication    | UART (via USB-TTL/RS232)  |
+| PC Interface     | Python (Tkinter GUI)      |
+| CAD Modeling     | Fusion360 / SolidWorks    |
+| PCB Design       | Altium Designer / EasyEDA |
