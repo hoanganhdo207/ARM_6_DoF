@@ -30,9 +30,8 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
 | └── `KeilC/`         | STM32 firmware developed with Keil µVision.                                |
 | └── `Python/`        | Python scripts for PC control, visualization, and GUI.                     |
 | `images/`            | Screenshots and images for documentation and README.                       |
-| `docs/`              | Additional documents (setup guides, testing procedures).                   |
 | `.gitignore`         | List of files/folders ignored by Git.                                      |
 | `README.md`          | Project overview (this file).  
 
-
+## 📸 Demo
 
