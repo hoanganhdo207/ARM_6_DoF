@@ -11,8 +11,10 @@ This project implements a 6 Degrees if Freedom (6 DoF) robotic arm , controlled 
 | Component        | Tool / Technology         |
 |------------------|---------------------------|
 | Microcontroller  | STM32F411CEU6             |
+| Mechanical frame | 3D printed parts          |
 | IDE              | Keil µVision              |
 | Communication    | UART (via USB-TTL/RS232)  |
 | PC Interface     | Python (Tkinter GUI)      |
 | CAD Modeling     | SolidWorks                |
 | PCB Design       | Altium Designer           |
+| Simulation       | CoppeliaSim               |
